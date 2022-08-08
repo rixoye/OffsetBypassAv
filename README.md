@@ -14,7 +14,8 @@ Loader文件夹下是一个shellcode加载器，在shellcode的加载器中，�
 ### 实际免杀效果
 由于没有去做反沙箱的手段，所以沙箱运行的内存识别还是发现了msf的shellcode特征。
 url：https://www.virscan.org/report/afaaee5837f656499f91cd37fca8fa78a597df1ff66bcc716282c982fb6d268d
-![](img/Pasted%20image%2020220808165432.png)
+<img width="1172" alt="image" src="https://user-images.githubusercontent.com/109727407/183383226-fc31288b-aa93-4d40-93fc-d604fff6aaf0.png">
+
 
 ### 代码
 https://github.com/rixoye/OffsetBypassAv
